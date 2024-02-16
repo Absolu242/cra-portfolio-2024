@@ -29,7 +29,7 @@ export function HeroSection() {
             width={{
               base: "100%",
               md: "70%",
-              lg: "55%",
+              lg: "65%",
             }}
           >
             <Text
@@ -38,20 +38,20 @@ export function HeroSection() {
               lineHeight={{
                 base: "2.5rem",
                 md: "4rem",
-                lg: "6rem",
+                lg: "8rem",
               }}
               textAlign={"center"}
               paddingBottom={"2rem"}
               fontSize={{
                 base: "2.5rem",
                 md: "4rem",
-                lg: "5.5rem",
+                lg: "7.5rem",
               }}
             >
               {/* Building <br /> Softwares and Websites <br /> for{" "} */}
               Building <span className="green">experiences</span>{" "}
               <br />
-              making <span className="green">impact</span>.
+              Making <span className="green">impact</span>
             </Text>
 
             <Text
@@ -64,7 +64,7 @@ export function HeroSection() {
             >
               I help companies craft dynamic, user-friendly web{" "}
               <br />
-              interfaces that drive engagement and results.
+              interfaces that solve problems and bring good results.
             </Text>
 
             <a href="mailto:rahanbakala@outlook.com">
