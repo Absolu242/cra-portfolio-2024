@@ -1,6 +1,6 @@
 import { Box, Button, Flex, Image, Text } from "@chakra-ui/react";
 import React from "react";
-import Navbar from "../layouts/Navbar";
+import Navbar from "../../layouts/Navbar";
 
 export function HeroSection() {
   return (
@@ -10,6 +10,7 @@ export function HeroSection() {
       width={"100%"}
       //height={"100vh"}
       paddingTop={"3rem"}
+      backgroundSize={"contain"}
       id="home"
     >
       <Box className="center-layout">
@@ -48,8 +49,9 @@ export function HeroSection() {
               }}
             >
               {/* Building <br /> Softwares and Websites <br /> for{" "} */}
-              <span className="green">Growing</span> Brands <br />
-              With Web Development & <br /> Social Media Strategies
+              Building <span className="green">experiences</span>{" "}
+              <br />
+              making <span className="green">impact</span>.
             </Text>
 
             <Text
@@ -60,10 +62,9 @@ export function HeroSection() {
               }}
               color={"#cccccc"}
             >
-              I help brands expand their reach and boost their{" "}
+              I help companies craft dynamic, user-friendly web{" "}
               <br />
-              presence by crafting effective social media
-              strategies, <br /> softwares, and websites.
+              interfaces that drive engagement and results.
             </Text>
 
             <a href="mailto:rahanbakala@outlook.com">
@@ -82,7 +83,7 @@ export function HeroSection() {
                   border: "1px solid #fff",
                 }}
               >
-                Work With Me
+                Hire Me
               </Button>
             </a>
           </Box>

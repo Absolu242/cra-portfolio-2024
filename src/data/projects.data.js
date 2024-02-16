@@ -1,11 +1,11 @@
 export const projectsList = [
   {
     id: "01",
-    name: "E-commerce Dashboard",
-    tech: "Reactjs,styled-components..",
-    live: "https://ecomboard.netlify.app",
-    github: "https://github.com/Absolu242/ecommerce-dashboard",
-    image: "./boltkit.png",
+    name: "Saasdunk",
+    tech: "Reactjs,Chackra-UI...",
+    live: "https://saasdunk.netlify.app",
+    github: "https://github.com/Absolu242/saasdunk-dashboard",
+    image: "./saasdunk.png",
   },
 
   {
@@ -42,14 +42,14 @@ export const projectsList = [
   //   github: "#",
   //   image: "./airbnb.jpg",
   // },
-  {
-    id: "03",
-    name: "portrait posts",
-    tech: "React,Redux ,Sass ...",
-    live: "https://shila-ecom.netlify.app",
-    github: "https://github.com/Absolu242/shila",
-    image: "./socialmedia1.png",
-  },
+  // {
+  //   id: "03",
+  //   name: "portrait posts",
+  //   tech: "React,Redux ,Sass ...",
+  //   live: "#",
+  //   github: "https://github.com/Absolu242/shila",
+  //   image: "./socialmedia1.png",
+  // },
 
   // {
   //   id: "4",
@@ -61,16 +61,16 @@ export const projectsList = [
   // },
 
   {
-    id: "04",
-    name: "Saasdunk",
+    id: "03",
+    name: "FileSafe",
     tech: "Reactjs,Chackra-UI...",
-    live: "https://saasdunk.netlify.app",
+    live: "#",
     github: "https://github.com/Absolu242/saasdunk-dashboard",
-    image: "./filesafe.png",
+    image: "./filesafe2.png",
   },
 
   {
-    id: "05",
+    id: "04",
     name: "Dayne Digital",
     tech: "Next js,styled-components,Formik ...",
     live: "https://daynedigital.netlify.app",
@@ -78,11 +78,20 @@ export const projectsList = [
     image: "./daynedigital.png",
   },
   {
-    id: "06",
-    name: "other posts",
-    tech: "React,Redux ,Sass ...",
-    live: "https://shila-ecom.netlify.app",
-    github: "https://github.com/Absolu242/shila",
-    image: "./socialmedia2.png",
+    id: "05",
+    name: "E-commerce Dashboard",
+    tech: "Reactjs,styled-components..",
+    live: "https://ecomboard.netlify.app",
+    github: "https://github.com/Absolu242/ecommerce-dashboard",
+    image: "./boltkit.png",
   },
+
+  // {
+  //   id: "06",
+  //   name: "other posts",
+  //   tech: "React,Redux ,Sass ...",
+  //   live: "https://shila-ecom.netlify.app",
+  //   github: "https://github.com/Absolu242/shila",
+  //   image: "./socialmedia2.png",
+  // },
 ];

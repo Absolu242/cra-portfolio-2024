@@ -1,16 +1,7 @@
-import { Box } from "@chakra-ui/react";
-import { HeroSection } from "./components/HeroSection";
-import { ProjectsSection } from "./components/ProjectsSection";
-import { ServicesSection } from "./components/ServicesSection";
+import SecondPage from "./pages/second-page";
 
 function App() {
-  return (
-    <Box>
-      <HeroSection />
-      <ProjectsSection />
-      <ServicesSection />
-    </Box>
-  );
+  return <SecondPage />;
 }
 
 export default App;

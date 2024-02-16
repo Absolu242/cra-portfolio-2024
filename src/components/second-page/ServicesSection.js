@@ -6,16 +6,11 @@ export function ServicesSection() {
   const servicesList = [
     {
       name: "Website Design",
-      price: "Starting at $3800",
+      price: "Contact for pricing",
       link: "https://airtable.com/appV0NnHNbQrtErjN/shrhzeFXX2rrXiHj0",
       tools: "Webflow , Framer , Shopify",
     },
-    {
-      name: "Social Media Design",
-      price: "Starting at $1800 per month",
-      link: "https://airtable.com/appV0NnHNbQrtErjN/shrP8mQ5cg2orOOuV",
-      tools: "Banners , Content Creation , etc",
-    },
+
     {
       name: "Custom Web Development",
       price: "Contact for pricing",
@@ -23,17 +18,24 @@ export function ServicesSection() {
       tools: "Html , React , Next, etc",
     },
     {
-      name: "Social Media Management / Marketing",
-      price: "Starting at $2500 per month",
-      link: "https://airtable.com/appV0NnHNbQrtErjN/shrP8mQ5cg2orOOuV",
-      tools: "LinkedIn , Instagram , Facebook , etc",
-    },
-    {
       name: "Frontend Developer Role",
       price: "Send me a DM on LinkedIn",
       link: "https://www.linkedin.com/in/therahanbakala/",
       tools:
         "Full-time , Contractor or Freelance ( Open for relocation or remote work)",
+    },
+    {
+      name: "Social Media Design",
+      price: "Contact for pricing",
+      link: "https://airtable.com/appV0NnHNbQrtErjN/shrP8mQ5cg2orOOuV",
+      tools: "Banners , Content Creation , etc",
+    },
+
+    {
+      name: "Social Media Management / Marketing",
+      price: "Contact for pricing",
+      link: "https://airtable.com/appV0NnHNbQrtErjN/shrP8mQ5cg2orOOuV",
+      tools: "LinkedIn , Instagram , Facebook , etc",
     },
   ];
 

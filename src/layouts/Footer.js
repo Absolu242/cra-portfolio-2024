@@ -33,8 +33,13 @@ const Footer = () => {
               color="#000"
               border="1px solid #8CEF22"
               marginTop={"2rem"}
+              _hover={{
+                background: "none",
+                color: "white",
+                border: "1px solid #fff",
+              }}
             >
-              Work With Me
+              Hire Me
             </Button>
           </a>
         </Box>
@@ -58,13 +63,24 @@ const Footer = () => {
           <Link
             color={"white"}
             fontSize={"medium"}
+            margin={"0 2rem"}
+            href="#aboutme"
+            _hover={{
+              color: "#8CEF22",
+            }}
+          >
+            About Me
+          </Link>
+          <Link
+            color={"white"}
+            fontSize={"medium"}
             margin={"0 1rem"}
             href="#work"
             _hover={{
               color: "#8CEF22",
             }}
           >
-            Work
+            My Work
           </Link>
           <Link
             color={"white"}

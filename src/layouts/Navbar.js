@@ -38,12 +38,23 @@ const Navbar = () => {
             color={"white"}
             fontSize={"medium"}
             margin={"0 2rem"}
+            href="#aboutme"
+            _hover={{
+              color: "#8CEF22",
+            }}
+          >
+            About Me
+          </Link>
+          <Link
+            color={"white"}
+            fontSize={"medium"}
+            margin={"0 2rem"}
             href="#work"
             _hover={{
               color: "#8CEF22",
             }}
           >
-            Work
+            My Work
           </Link>
           <Link
             color={"white"}
@@ -72,7 +83,7 @@ const Navbar = () => {
               border: "1px solid #fff",
             }}
           >
-            Work With Me
+            Hire Me
           </Button>
         </a>
       </Flex>
