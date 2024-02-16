@@ -65,7 +65,7 @@ export function ServicesSection() {
 
         <Box w={"100%"}>
           {servicesList.map((service, index) => {
-            let c = index + 1 == servicesList.length;
+            let c = index + 1 === servicesList.length;
 
             return (
               <ServiceRow
