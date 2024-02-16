@@ -1,6 +1,5 @@
 import { Box, Flex, Heading, Image, Text } from "@chakra-ui/react";
 import React from "react";
-import { projectsList } from "../../data/projects.data";
 
 export function AboutMeSection() {
   return (
