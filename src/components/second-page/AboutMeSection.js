@@ -59,66 +59,51 @@ export function AboutMeSection() {
               textAlign={"justify"}
               //fontWeight={"black"}
             >
-              Every line of code I write isn't just about pixels and
-              logic, it's about{" "}
+              Every line of code I write is about more than just
+              pixels and logic.
+              <br />
               <span className="green">
-                {" "}
-                unlocking possibilities, overcoming challenges, and
-                ultimately, making a positive impact.{" "}
+                It's about unlocking possibilities, overcoming
+                challenges, and making a positive impact.
               </span>
               <br />
               <br />
-              With each personal project and enterprise experiences,
-              I honed my skills, not just technically, but also in
-              <span className="green">
-                {" "}
-                creativity, problem-solving, and collaboration.{" "}
-              </span>
+              Through personal projects and professional
+              experiences, I've honed not only my technical skills
+              but also my creativity, problem-solving, and
+              collaboration abilities.
               <br />
               <br />
-              Today, I'm not just a developer ; I'm a
-              <span className="green">
-                {" "}
-                problem-solver with a developer's toolkit.
-              </span>
+              Today, I'm not just a developer; I'm a problem-solver
+              with a developer's toolkit.
+              <br />
               <br />I see beyond lines of code to the potential they
-              hold – the power to{" "}
+              hold –{" "}
               <span className="green">
-                streamline processes, boost engagement, and
-                ultimately, drive success.{" "}
+                the power to streamline processes, boost engagement,
+                and ultimately, drive success.{" "}
               </span>
-              I'm{" "}
-              <span className="green">
-                not just passionate about building, but about
-                building for impact.
-              </span>
+              <br />
+              <br />
+              I'm passionate about building for impact.
               <br />
               <br />
               Whether it's helping established businesses scale new
               heights or empowering startups to launch their dreams,
-              I thrive on seeing{" "}
-              <span className="green">
-                my skills translate into tangible results that make
-                a difference.
-              </span>
+              I thrive on seeing my skills translate into tangible
+              results that make a difference.
               <br />
               <br />
-              Are you facing a challenge that needs a{" "}
-              <span className="green">
-                creative, solution-oriented developer
-              </span>{" "}
-              on your team ?
+              Are you facing a challenge that needs a creative,
+              solution-oriented developer on your team?
               <br />
               <br />
-              <span className="green">Let's chat. </span>
+              <span className="green">Let's chat.</span>
               <br />
               <br />
-              I'm eager to{" "}
-              <span className="green">
-                {" "}
-                understand your needs, leverage my expertise, and
-                craft a solution that propels your business forward.{" "}
-              </span>
+              I'm eager to understand your needs, leverage my
+              expertise, and craft a solution that propels your
+              business forward.
             </Text>
             <Flex alignItems={"center"} marginTop={"5rem"}>
               <Image
